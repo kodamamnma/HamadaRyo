@@ -229,11 +229,10 @@ const $$Services = createComponent(($$result, $$props, $$slots) => {
   const cards = [
     {
       index: 1,
-      titleTop: "Search Engine",
-      titleBottom: "Optimization",
+      titleTop: "\u52D5\u753B\u7DE8\u96C6",
+      titleBottom: "AI\u3067\u6700\u9069\u5316",
       img: c1,
-      alt: "SEO",
-      link: "https://google.com"
+      alt: "SEO"
     },
     {
       index: 2,

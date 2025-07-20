@@ -2,7 +2,7 @@
 import { c as createComponent, r as renderTemplate, d as renderComponent, m as maybeRenderHead } from '../chunks/astro/server_DrjHWHeI.mjs';
 import 'kleur/colors';
 import { $ as $$MainLayout } from '../chunks/MainLayout_CAH-QHI_.mjs';
-import { $ as $$Sponsors, a as $$Services } from '../chunks/Services_CPkxOI4Z.mjs';
+import { $ as $$Sponsors, a as $$Services } from '../chunks/Services_CHOocW7u.mjs';
 export { renderers } from '../renderers.mjs';
 
 const $$About = createComponent(($$result, $$props, $$slots) => {

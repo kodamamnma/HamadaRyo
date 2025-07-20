@@ -3,7 +3,7 @@ import { c as createComponent, r as renderTemplate, d as renderComponent, m as m
 import 'kleur/colors';
 import { $ as $$Image } from '../chunks/_astro_assets_DxK_tLMq.mjs';
 import { $ as $$Card } from '../chunks/Card_CehR17Mk.mjs';
-import { b as $$SectionTitle, c as $$Section, $ as $$Sponsors, a as $$Services } from '../chunks/Services_CPkxOI4Z.mjs';
+import { b as $$SectionTitle, c as $$Section, $ as $$Sponsors, a as $$Services } from '../chunks/Services_CHOocW7u.mjs';
 /* empty css                                 */
 import 'clsx';
 import { $ as $$MainLayout } from '../chunks/MainLayout_CAH-QHI_.mjs';
@@ -78,7 +78,8 @@ const HeroIlust = new Proxy({"src":"/_astro/hero.Cc0GD7y9.svg","width":601,"heig
 					});
 
 const $$Hero = createComponent(($$result, $$props, $$slots) => {
-  return renderTemplate`${renderComponent($$result, "Section", $$Section, { "id": "home" }, { "default": ($$result2) => renderTemplate` ${maybeRenderHead()}<div class="relative flex flex-col-reverse items-center md:flex-row" id="hero"> <div class="row items-center py-5 md:w-6/12 md:pb-20 md:pt-10"> <div class="text-left space-y-3"> <h1 class="text-4xl font-medium leading-none md:text-6xl text-center md:text-left">あなたの <br> 思い出を <br> AIでよみがえらせます！</h1> <p class="mt-6 mb-8 text-lg font-normal leading-7 sm:mb-12 text-center md:text-left md:pr-12">Our digital marketing agency helps businesses grow and succeed online through a range of services including SEO, PPC, social media marketing, and content creation.</p> <div class="w-full justify-center md:justify-start items-center inline-flex"> <a href="https://github.com/manulthanura/Positivus" target="_blank" class="px-8 py-5 bg-zinc-900 hover:bg-white rounded-2xl text-center text-white hover:text-black border text-xl font-normal leading-7">Book a consultation
+  return renderTemplate`${renderComponent($$result, "Section", $$Section, { "id": "home" }, { "default": ($$result2) => renderTemplate` ${maybeRenderHead()}<div class="relative flex flex-col-reverse items-center md:flex-row" id="hero"> <div class="row items-center py-5 md:w-6/12 md:pb-20 md:pt-10"> <div class="text-left space-y-3"> <h1 class="text-4xl font-medium leading-none md:text-6xl text-center md:text-left">あなたの <br> 思い出を <br> AIでよみがえらせます！</h1> <p class="mt-6 mb-8 text-lg font-normal leading-7 sm:mb-12 text-center md:text-left md:pr-12">Relive your memories with AI！
+</p> <div class="w-full justify-center md:justify-start items-center inline-flex"> <a href="https://github.com/manulthanura/Positivus" target="_blank" class="px-8 py-5 bg-zinc-900 hover:bg-white rounded-2xl text-center text-white hover:text-black border text-xl font-normal leading-7">Book a consultation
 </a> </div> </div> </div> <div class="flex items-center py-5 md:w-6/12 md:pb-20 md:pt-10"> ${renderComponent($$result2, "Image", $$Image, { "src": HeroIlust, "alt": "Hero Ilustration", "loading": "eager" })} </div> </div> ` })}`;
 }, "C:/Users/k1960/OneDrive/\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7/HP\u5236\u4F5C\uFF08\u4ED5\u4E8B\u7528\uFF09/HamadaRyo/src/components/sections/Hero.astro", void 0);
 
