@@ -1,8 +1,8 @@
 /* empty css                                 */
-import { c as createComponent, r as renderTemplate, d as renderComponent, m as maybeRenderHead, e as addAttribute } from '../chunks/astro/server_DrjHWHeI.mjs';
+import { c as createComponent, d as renderComponent, r as renderTemplate, m as maybeRenderHead, e as addAttribute } from '../chunks/astro/server_DymnrhMD.mjs';
 import 'kleur/colors';
-import { $ as $$MainLayout } from '../chunks/MainLayout_CAH-QHI_.mjs';
-import { $ as $$Card } from '../chunks/Card_CehR17Mk.mjs';
+import { $ as $$MainLayout } from '../chunks/MainLayout_xDDua34a.mjs';
+import { $ as $$Card } from '../chunks/Card_B8NAsrgI.mjs';
 export { renderers } from '../renderers.mjs';
 
 const priceData = [
